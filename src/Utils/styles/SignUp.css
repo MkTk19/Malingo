@@ -1,0 +1,137 @@
+.login-container{
+    display: flex;
+    height: 110vh;
+    width: 100%;
+    background-color: rgb(168, 162, 162);
+}
+.image-container{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+.image1{
+    height: 55vh;
+    width: 65%;
+    margin-top: 65%;
+    margin-left: 60%;
+
+    /* display: ; */
+}
+/* .login-img{
+    height: 50vh;
+    width: 50%;
+    margin-left: 100%;
+    
+} */
+.form-container{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    /* padding: 4%; */
+    border-radius: 20px;
+    justify-self: center;
+    margin-right: 0.5%;
+    /* margin-left: 1%; */
+    margin-bottom: 0.5%;
+    margin-top: 0.5%;
+    width: 50%;
+    box-shadow: 0 4px 8px;
+    margin-left: 15%;
+    
+
+}
+.logo{
+    height: 50px;
+}
+.describe{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    height: 30vh;
+    margin-top: 10%;
+}
+.describe h1{
+    font-weight: bold;
+    font-size: 35px;
+    position: relative;
+    top: -5%;
+}
+.describe p{
+    font-size: 15px;
+    position: relative;
+    top: -25%;
+
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: center ;
+    position: relative;
+    height: 100px;
+    width: 90%;
+    
+}
+.login-form{
+    display: flex;
+    display: block;
+    flex-direction: column;
+    /* position: ; */
+    /* background-color: rgb(252, 146, 8); */
+
+    /* padding: 10%; */
+    /* gap: 15%; */
+    /* align-items: flex-start; */
+    /* justify-items: center; */
+     width: 90%;
+}
+
+.line{
+    border: none;
+    border-bottom: 2px solid #000;
+    outline: none;
+    margin-bottom: 15px;
+    width: 250px;
+    padding: 1px 15px;
+    
+
+    
+}
+.login-btn{
+    width: 70%;
+    padding: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    border-radius: 5cm;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    border: none;
+    background-color: #000;
+    cursor: pointer;
+    /* justify-self: center; */
+    margin-top: 17px;
+    
+}
+.Signup-link {
+    margin-top: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.login label{
+    position: relative;
+    display: flex;
+
+}
+/* .check-box{
+    position: relative;
+    /* position: inherit; */
+/* } */
+/* span{
+    display: flex;
+    align-items: center;
+    position: relative;
+     */
+/* } */ 
